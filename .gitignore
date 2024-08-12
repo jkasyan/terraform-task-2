@@ -1,2 +1,6 @@
 .idea
 terraform-task-2.iml
+
+/terraform
+*.tfstate
+*.tfstate.backup

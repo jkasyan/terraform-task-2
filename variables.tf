@@ -10,6 +10,6 @@ variable "GOOGLE_REGION" {
 }
 
 variable "GKE_NUM_NODES" {
-  type        = number
-  default     = 2
+  type    = number
+  default = 2
 }
